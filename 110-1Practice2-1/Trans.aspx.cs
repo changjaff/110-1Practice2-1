@@ -17,7 +17,7 @@ namespace _110_1Practice2_1
 
             d_Value2 = 5.0 * (d_Value - 32.0) / 9.0; //華氏轉攝氏
 
-            Response.Write("d_Value = " + d_Value + "F " + " =  " + d_Value2 + " 度"); //印出結果
+            Response.Write("d_Value = " + d_Value + "F " + " =  " + d_Value2 + " C"); //印出結果
 
         }
     }
